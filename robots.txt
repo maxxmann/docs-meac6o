@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-brek44.indocuan.online/sitemap.xml
